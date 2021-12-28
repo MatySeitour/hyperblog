@@ -3,14 +3,7 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
     height: 100vh;
-<<<<<<< HEAD
     background: #000;
-=======
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
->>>>>>> 7d8065c0900e3fe319fac1581037c1241eeb1129
 }
 
 *{
@@ -20,15 +13,9 @@ body{
 }
 
 .contenedor{
-<<<<<<< HEAD
     height: 800px;
-    width: 800px;
-    background: #444;
-=======
-    height: 600px;
     width: 100%;
-    background: #a0e;
->>>>>>> 7d8065c0900e3fe319fac1581037c1241eeb1129
+    background: #444;
     padding: 20px;
     display: flex;
     justify-content: space-around;
